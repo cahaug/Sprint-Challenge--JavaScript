@@ -44,7 +44,7 @@ Edit this document to include your answers after each question. Make sure to lea
     4. Window Binding - you generally don't want to bind your this keyword to the window object but if you have to you can set it.  Unless you're      in strict mode, which will throw an error/return undefined.
 
 5. Why do we need super() in an extended class?
-    Super is the function that accesses and calls the properties from the parent. It creates the link between the classes, and is found in the child element.
+    Super is the function that accesses and calls the properties from the parent class. It creates the link between the classes, and is found in the child class.
 
 ## Project Set up
 
