@@ -41,7 +41,7 @@
 
 // Test your volume and surfaceArea methods by uncommenting the logs below:
 
-console.log("=====Prototypes.js Cuboid Calculations=====")
+console.log("===== Prototypes.js Cuboid Calculations =====");
 console.log(cuboid2.volume()); // 100
 console.log(cuboid2.surfaceArea()); // 130
 
